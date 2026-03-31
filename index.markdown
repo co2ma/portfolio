@@ -219,7 +219,7 @@ career:
       <div class="max-w-6xl mx-auto">
         <div class="mb-16 flex items-baseline gap-4 border-b border-gray-200 dark:border-white/10 pb-6 transition-colors duration-300">
           <span class="text-cyan-500 dark:text-cyan-400 font-mono text-xl">02.</span>
-          <h2 class="text-4xl md:text-5xl font-black tracking-tighter text-gray-900 dark:text-white uppercase transition-colors duration-300">Technical Skills</h2>
+          <h2 class="text-4xl md:text-5xl font-black tracking-tighter text-gray-900 dark:text-white uppercase transition-colors duration-300">보유 기술 & 역량</h2>
         </div>
         
         <div class="grid md:grid-cols-3 gap-6">
@@ -249,7 +249,7 @@ career:
       <div class="max-w-6xl mx-auto">
         <div class="mb-16 flex items-baseline gap-4 border-b border-gray-200 dark:border-white/10 pb-6 transition-colors duration-300">
           <span class="text-cyan-500 dark:text-cyan-400 font-mono text-xl">03.</span>
-          <h2 class="text-4xl md:text-5xl font-black tracking-tighter text-gray-900 dark:text-white uppercase transition-colors duration-300">Selected Works</h2>
+          <h2 class="text-4xl md:text-5xl font-black tracking-tighter text-gray-900 dark:text-white uppercase transition-colors duration-300">진행한 프로젝트</h2>
         </div>
         
         <div class="space-y-24">
@@ -309,7 +309,7 @@ career:
       <div class="max-w-4xl mx-auto">
         <div class="mb-16 flex items-baseline gap-4 border-b border-gray-200 dark:border-white/10 pb-6 transition-colors duration-300">
           <span class="text-cyan-500 dark:text-cyan-400 font-mono text-xl">04.</span>
-          <h2 class="text-4xl md:text-5xl font-black tracking-tighter text-gray-900 dark:text-white uppercase transition-colors duration-300">Experience</h2>
+          <h2 class="text-4xl md:text-5xl font-black tracking-tighter text-gray-900 dark:text-white uppercase transition-colors duration-300">활동 사항</h2>
         </div>
         
         <div class="space-y-12">
